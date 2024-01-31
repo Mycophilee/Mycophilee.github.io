@@ -1,1 +1,15 @@
+body {
+  background-color:RosyBrown; 
 
+  font-family: Arial; Helvetica;
+  margin: 10% 10%;
+  
+  .image { opacity: 0.9;
+  padding-left: 380px
+    
+    
+  }
+  .pronouns {
+    font-style: italic;
+  }
+  
